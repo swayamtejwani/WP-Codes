@@ -1,0 +1,39 @@
+For this simple test wordpress plugin, I'll like the following functionalities:
+
+1. Integrate with the WPMU Membership plugin (link provided below)
+
+2. The simple plugin that you will develop when it is first installed should automatically create a wpmu membership access level with name “Vendor Access”.
+
+3. It should create a registration page for a user to enter the required fields:
+
+• First and last name
+
+• Phone number
+
+• Address (Street Address, City and Country)
+
+• Email address
+
+4. When the user submits the form, the user’s account is created with their profile populated with the entered data.
+
+5. The user will be automatically assigned with the “Vendor Access” access level in the wpmu membership plugin.
+
+6. The user will get an email to confirm their registration. No username or password is sent to them.
+
+No browser compatibility is required. Just pick a browser you wish to target and go with it.
+
+No form field validation is required, it is optional.
+
+The registration page does not need to look aesthetically designed. Just the basic default html display is adequate.
+
+WPMU membership plugin link: https://www.dropbox.com/s/9sabqdmeu2avm0y/membership-3.4.4.1.zip
+
+Please create a wordpress plugin zip file on completion for me to install on my wordpress test site.
+
+Once you have done this, we can discuss further about the project.
+
+Please note that I do not offer any monetary considerations for this test plugin assessment and the completion of this test plugin allows me to determine whether to shortlist you for this project and other future projects.
+
+If you have any further questions about this, do email me.
+
+ 
